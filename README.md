@@ -1,3 +1,3 @@
 random
 ======
-This repository contains random snippets of code.
+This repository can contain random snippets of code.
